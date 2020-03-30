@@ -1,5 +1,5 @@
 #
-# Module manifest for module 'P3RemoteAccess'
+# Module manifest for module 'P3Utils'
 #
 
 @{
